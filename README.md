@@ -13,5 +13,5 @@ You can get information by sending command via Telegram (it is communicates with
 And more.
 
 
-[![Market Project Guide](hhttps://youtu.be/rJ7hZjmF9jI)](https://youtu.be/rJ7hZjmF9jI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rJ7hZjmF9jI/0.jpg)](https://www.youtube.com/watch?v=rJ7hZjmF9jI)
 
