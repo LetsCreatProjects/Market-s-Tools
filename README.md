@@ -11,3 +11,7 @@ To analyze correlations, patterns and more complicated mathematical function to 
 You can get information by sending command via Telegram (it is communicates with the system and sends you update about your account equity, total open orders and positions + print screen of the chart, so you don't need to be near PC).
 
 And more.
+
+
+[![Market Project Guide](hhttps://youtu.be/rJ7hZjmF9jI)](https://youtu.be/rJ7hZjmF9jI)
+
