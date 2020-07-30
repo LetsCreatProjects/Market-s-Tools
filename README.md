@@ -2,7 +2,7 @@
 
 This is useful if you:
 
-Want to see overview on majors currency's market conditions.
+If you want to see overview on majors currency's market conditions.
 
 Can help you to write professional articles.
 
